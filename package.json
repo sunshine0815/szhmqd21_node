@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sunshine0815/szhmqd21_node/issues"
   },
-  "homepage": "https://github.com/sunshine0815/szhmqd21_node#readme"
+  "homepage": "https://github.com/sunshine0815/szhmqd21_node#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4"
+  }
 }
